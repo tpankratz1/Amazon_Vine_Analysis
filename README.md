@@ -29,7 +29,7 @@ This new assignment consisted of two technical analysis deliverables:
 ![Percentage 5-star reviews, both Vine and non-Vine](Resources/fivestar_percentage_reviews.png)
 
 ## Summary
-After analysis of the Vine vs. non-Vine Shoes product reviews data, there appears to be a slight positivity bias towards Vine reviews, with about a 5.5% higher percentage of 5-star ratings in the Vine program (59.1% vs. 53.6%).
+An analysis of the Vine vs. non-Vine Shoes product reviews data shows that there appears to be a slight positivity bias towards Vine reviews, with about a 5.5% higher percentage of 5-star ratings in the Vine program (59.1% vs. 53.6%).
 
 To verify whether this 5-star positivity bias was specific to Shoes products or more prevalent across the Vine program, it would be beneficial to run additional analysis on other products lines, since there are about 50 of them (IE, look at a broader data set).
 
